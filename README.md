@@ -4,7 +4,7 @@ SWCToolkit is a package designed to facilitate virtual interaction with experime
 
 Originally this package was written to aid the construction of biologically realistic neural models for use in computational studies of extracellular electrical stimulation but it can be used for diverse neural modeling problems.
 
-![Roots Example Arbor](https://github.com/bingsome/swcToolkit/blob/master/docs/gif.gif)
+![gif](https://user-images.githubusercontent.com/7799699/88575616-2a8b9180-d012-11ea-98b6-c1b835cba00a.gif)
 
 Installation
 Download the package and while in root directory call: 
